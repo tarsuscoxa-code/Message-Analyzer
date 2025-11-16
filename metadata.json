@@ -1,0 +1,5 @@
+{
+  "name": "SmartSummaries",
+  "description": "A minimalist, highly optimized mobile app that automatically accesses the user’s notifications, reads notification content, analyzes messages in real time, and auto-summarizes and categorizes them into Urgent, Most Important, Most Relevant, and Least Relevant.",
+  "requestFramePermissions": []
+}
